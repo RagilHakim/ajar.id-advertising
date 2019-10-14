@@ -55,6 +55,9 @@ html {
   margin-left: auto;
 }
 
+.row1{
+position: relative;  
+}
 .row {
   display: -ms-flexbox;
   display: flex;
